@@ -3,3 +3,6 @@
     text-transform: uppercase;
     color: rgb(red, green, blue)
 }
+p {
+    color: red;
+}
